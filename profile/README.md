@@ -1,8 +1,10 @@
-# BarnSight AI
+# BarnSight 
 
-**BarnSight AI** builds practical, computer-vision tools that help farmers keep barns cleaner, safer, and more efficient.
+**BarnSight** builds practical, computer-vision tools that help farmers keep barns cleaner, safer, and more efficient.
 
 We focus on **real-time detection of visible animal excrement** using edge AI and mobile-friendly systems — turning routine hygiene checks into fast, reliable, data-driven workflows.
+
+![til](./media/logo-animated.gif)
 
 ---
 
@@ -54,7 +56,7 @@ How to get involved:
 |-------|------------|
 | **BarnSight Edge** | On-device computer vision system for detecting animal excrement from camera feeds |
 | **BarnSight Server** | FastAPI-based backend for receiving detections, alerts, and reports |
-| **BarnSight Train** | Train a model for computer vision system |
+| **BarnSight Train** | Train your custom model for computer vision system using YOLO |
 
 More projects will appear here as the ecosystem grows.
 

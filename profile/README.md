@@ -4,8 +4,6 @@
 
 We focus on **real-time detection of visible animal excrement** using edge AI and mobile-friendly systems — turning routine hygiene checks into fast, reliable, data-driven workflows.
 
-<img src="media/logo-animated.gif" height="250" />
-
 ---
 
 ## 🚀 What We Do
